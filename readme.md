@@ -6,6 +6,10 @@
 - I: Interface Segregation Principle // Principio de Segregación de la Interfaz
 - D: Dependency Inversion Principle // Principio de Inversión de Dependencia
 
+## ¿Que son los principios SOLID?
+
+- Los principios SOLID son un conjunto de cinco principios de diseño de software que se utilizan para crear código limpio, mantenible y escalable. Estos principios fueron introducidos por Robert C. Martin y son ampliamente aceptados en el desarrollo de software orientado a objetos. Aquí están los cinco principios SOLID:
+
 _Single Responsibility Principle_
 Este principio sostiene que una clase debe tener una sola razón para cambiar, esto implica que debe tener una sola tarea o responsabilidad.
 
@@ -21,6 +25,10 @@ Este principio establece que ninguna clase debería ser forzada a implementar in
 _Dependency Inversion Principle_
 Este principio establece que los módulos de alto nivel no deben depender de los módulos de bajo nivel, ambos deben depender de abstracciones además, las abstracciones no deben depender de los detalles, los detalles deben depender de las abstracciones.
 
+- Aplicar estos principios SOLID en el desarrollo de software puede ayudar a crear código más modular, extensible y fácil de mantener a lo largo del tiempo. Estos principios son una guía importante para los desarrolladores que desean escribir código de alta calidad y evitar problemas de diseño.
+
 ### Fuentes:
 
 [Principios SOLID Carlos Azaustre](https://youtu.be/6PdAOfsPh48?si=415lbubzcvwJlCpk)
+
+[Principios SOLID hdeleon.net](https://youtu.be/RvaUo5bBSjw?si=pVXDUOmvVEl97eEJ)
