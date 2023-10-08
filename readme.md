@@ -10,19 +10,19 @@
 
 - Los principios SOLID son un conjunto de cinco principios de diseño de software que se utilizan para crear código limpio, mantenible y escalable. Estos principios fueron introducidos por Robert C. Martin y son ampliamente aceptados en el desarrollo de software orientado a objetos. Aquí están los cinco principios SOLID:
 
-_Single Responsibility Principle_
+**Single Responsibility Principle:**
 Este principio sostiene que una clase debe tener una sola razón para cambiar, esto implica que debe tener una sola tarea o responsabilidad.
 
-_Open/Closed Principle_
+**Open/Closed Principle:**
 Este principio sostiene que las entidades de software, clases, módulos, funciones, deben estar abiertas para su extención pero cerradas para su modificación.
 
-_Liskov Substitution Principle_
+**Liskov Substitution Principle:**
 Este principio dice que las subclases deben ser sustituibles por sus clases base; es decir, los objetos de una clase deben poder ser remplazados por los objetos de una subclase sin afectar a la corrección sin afectar a la corrección del programa.
 
-_Interface Segregation Principle_
+**Interface Segregation Principle:**
 Este principio establece que ninguna clase debería ser forzada a implementar interfaces o métodos que no va a utilizar.
 
-_Dependency Inversion Principle_
+**Dependency Inversion Principle:**
 Este principio establece que los módulos de alto nivel no deben depender de los módulos de bajo nivel, ambos deben depender de abstracciones además, las abstracciones no deben depender de los detalles, los detalles deben depender de las abstracciones.
 
 - Aplicar estos principios SOLID en el desarrollo de software puede ayudar a crear código más modular, extensible y fácil de mantener a lo largo del tiempo. Estos principios son una guía importante para los desarrolladores que desean escribir código de alta calidad y evitar problemas de diseño.
