@@ -23,4 +23,4 @@ Este principio establece que los módulos de alto nivel no deben depender de los
 
 ### Fuentes:
 
-[Principios SOLID](https://youtu.be/6PdAOfsPh48?si=415lbubzcvwJlCpk){target="\_blank"}
+[Principios SOLID](https://youtu.be/6PdAOfsPh48?si=415lbubzcvwJlCpk)
